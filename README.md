@@ -70,13 +70,13 @@ Horizontal scrolling
 Responsive styling
 
 ### ⚙️ Installation & Setup
-1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-2. Navigate to the project
+### 2. Navigate to the project
 cd ui-project
-3. Install dependencies
+### 3. Install dependencies
 npm install
-4. Start the development server
+### 4. Start the development server
 npm run dev
 
 The application will start using the Vite development server.
