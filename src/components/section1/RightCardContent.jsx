@@ -16,7 +16,7 @@ const RightCardContent = (props) => {
           <button className="bg-blue-600 text-white font-medium px-8 py-2 rounded-full ">
             {props.tag}
           </button>
-          <button className="bg-blue-600 text-white font-medium px-3 py-2 rounded-full">
+          <button className="bg-red-600 text-white font-medium px-3 py-2 rounded-full">
             <ArrowRight size={14} />
           </button>
         </div>
